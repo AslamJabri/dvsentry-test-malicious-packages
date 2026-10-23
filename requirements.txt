@@ -1,0 +1,4 @@
+# DVSentry test fixture - crafted typosquat names, do not install
+reqeusts==2.31.0
+djanga==4.2.0
+numpu==1.26.0
